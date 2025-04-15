@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  list-style: none;
+}
+
+#navbar{
+width: 1440px;
+height: 50px;
+padding-top: 16px;
+padding-right: 156px;
+padding-bottom: 16px;
+padding-left: 156px;
+gap: 10px;
+background-color: #02A28F;
+
+}
+
+#tittlecabecalho{
+width: 268px;
+height: 44px;
+color: #ffffff;
+font-family: "Montserrat", sans-serif;
+font-weight: 700px;
+font-size: 36px;
+
+}
+
+#banner{
+width: 744px;
+height: 396px;
+top: 120px;
+left: 156px;
+gap: 10px;
+border-radius: 10px;
+padding: 24px;
+
+}
+
+#sectionCards{
+width: 360px;
+height: 36px;
+margin-top: 120px;
+margin-left: 925px;
+padding-top: 16px;
+padding-right: 24px;
+padding-bottom: 16px;
+padding-left: 24px;
+border-radius: 10px;
+background-color: #02A28F;
+display: block;
+
+}
+
+#titlecards{
+font-family: "Montserrat", sans-serif;
+font-size: 20px;
+letter-spacing: 0%;
+gap: 10px;
+color: #ffffff;
+
+}
+
+.conteinercards{
+width: 360px;
+height: 96px;
+top: 188px;
+left: 925px;
+border-radius: 10px;
+
+
+
+}
+
+.imgcards{
+width: 132px;
+height:70px;
+margin-top: 50px;
+border-radius: 10px;
+
+}
+
+.h2{
+display: inline;
+font-family: "Montserrat", sans-serif;
+font-weight: 700px;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.paragrafo{
+text-align: center;
+margin-left: 10px;
+font-family: "Montserrat", sans-serif;
+font-weight: 500;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+#bannerelementos{
+width: 744px;
+height: 883px;
+margin-bottom: 500px;
+}
+
+#categorias{
+width: 361;
+height: 184;
+margin-left: 1000px;
+display: flex;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+
+
+
+ 
+    
+
+
+
